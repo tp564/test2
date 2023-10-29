@@ -1,6 +1,3 @@
-# ODlab
-
-
 
 ## Getting started
 
